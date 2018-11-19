@@ -1,12 +1,12 @@
-首先下载脚本: 
+首先下载脚本: <br>
 	$ wget https://install.direct/go.sh 
-然后执行脚本安装: V2Ray: 
+然后执行脚本安装: V2Ray: <br>
 	$ sudo bash go.sh
-使用以下命令启动: V2Ray: 
+使用以下命令启动: V2Ray: <br>
 	$ sudo systemctl start v2ray 
-停止运行 V2Ray: 
+停止运行 V2Ray: <br>
 	$ sudo systemctl stop v2ray 
-重启 V2Ray:
+重启 V2Ray:  
 	$ sudo systemctl restart v2ray 
-升级更新
+升级更新  
 	$ sudo bash go.sh
